@@ -46,5 +46,21 @@ To run the text-to-video generation system locally, follow these steps:
 3. Download the pre-trained models and place them in the appropriate directories.
 4. Run the main script: `python app.py"`
 
+
+## Contributors
+```
+Author : Rishabh
+Contact: rbrishabh76@gmail.com
+
+Author: Shivansh Srivastava
+Contact: srivastavashiv0112@gmail.com
+
+Author: Shreya Garg
+Contact: shreyagarg031@gmail.com 
+
+Author: Shubyansh Rai
+Contact: shubhayansh@gmail.com
+```
+
 ## Usage
 >> Requires a A100 GPU to run Smoothly
